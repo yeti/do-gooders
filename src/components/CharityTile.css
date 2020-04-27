@@ -1,0 +1,10 @@
+
+.tile-container {
+    display: flex;
+}
+
+.tile {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
