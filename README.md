@@ -1,3 +1,11 @@
+# Do-Gooders Charity Board
+Important links:
+- List of Charities: https://docs.google.com/spreadsheets/u/1/d/13FrbHy3BemYarJtyANDynq37lNfIIuJ5ec6Q13E9OSg/htmlview#
+- Spreadsheet of tickets: https://docs.google.com/spreadsheets/d/1HeBa9Yx63c89JZYIp4YQgRgJvMhHAk0efvmiRJCzsB4/edit#gid=0
+
+Notes: More Charities need to be added via GraphCMS, right now only two samples exist to check that everything was up-and-running.
+
+## Create React App Notes:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
